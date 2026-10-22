@@ -88,10 +88,9 @@ COC = {
     }
 }
 
-
 NAPBC = {
     "Chapter 1": {
-        "Title": "Institutional & Administrative Commitment",
+        "Title": "Institutional Administrative Commitment",
         "Section": [
             "1.1 Administrative Commitment"
         ]
@@ -110,39 +109,40 @@ NAPBC = {
         "Section": [
             "3.1 Facility Accreditation",
             "3.2 Radiation Oncology Quality Assurance",
-            "3.3 Image Guided Biopsy Quality Assurance",
+            "3.3 Image-Guided Biopsy Quality Assurance",
             "3.4 Breast Imaging Quality Assurance",
             "3.5 Pathology Quality Assurance"
         ]
     },
     "Chapter 4": {
-        "Title": "Personnel and Equipment Resources",
+        "Title": "Personnel and Services Resources",
         "Section": [
             "4.1 Physician Credentials",
             "4.2 Oncology Nursing Credentials",
             "4.3 Physician Assistant Credentials",
             "4.4 Genetic Professional Credentials",
-            "4.5 Patient Navigator Credentials"
+            "4.5 Navigation Professional Credentials"
         ]
     },
     "Chapter 5": {
-        "Title": "Patient Care- Expectations and Protocols",
+        "Title": "Patient Care: Expectations and Protocols",
         "Section": [
-            "5.1 Screening for Breast Cancer",
-            "5.2 Diagnostic Imaging of the Breast and Axilla",
-            "5.3 Evaluation and Management of Benign Breast Diseases",
-            "5.4 Management of Patients at Increased Risk for Breast Cancer",
-            "5.5 Genetic Evaluation and Management",
-            "5.6 Evaluation and Treatment Planning for the Newly Diagnosed Cancer Patient",
-            "5.7 Comprehensive Evaluation of Patient Factors Before Treatment",
-            "5.8 Patient Navigation",
-            "5.9 Surgical Care",
-            "5.10 Reconstructive Surgery",
-            "5.11 Medical Oncology",
-            "5.12 Radiation Oncology",
-            "5.13 Surgical Pathology",
-            "5.14 Breast Cancer Staging Using the AJCC System",
-            "5.15 Survivorship",
+            "5.1 Screening and Diagnostic Imaging",
+            "5.2 Evaluation and Management of Benign Breast Disease",
+            # "5.3 Population-Based Risk Assessment and Management of Patients at Increased Risk for Breast Cancer",
+            "5.3 Risk Assessment and Management - Increased Breast Cancer Risk",
+            "5.4 Genetic Evaluation and Management",
+            "5.5 Evaluation and Treatment Planning",
+            "5.6 Patient Navigation",
+            "5.7 Function and Movement for Patients with Breast Cancer",
+            "5.8 Lymphedema Assessment",
+            "5.9 Breast Cancer Staging",
+            "5.10 Surgical Care",
+            "5.11 Reconstructive Surgery",
+            "5.12 Medical Oncology",
+            "5.13 Radiation Oncology",
+            "5.14 Surgical Pathology",
+            "5.15 Return to Wellness",
             "5.16 Surveillance"
         ]
     },
@@ -150,14 +150,13 @@ NAPBC = {
         "Title": "Quality Improvement",
         "Section": [
             "7.1 Quality Measures",
-            "7.2 Quality Improvement Initiatives"
+            "7.2 Quality Improvement Initiative"
         ]
     },
     "Chapter 8": {
-        "Title": "Education- Professional and Community Outreach",
+        "Title": "Education: Professional and Community Outreach",
         "Section": [
-            "8.1 Education, Prevention, and Early Detection Programs",
-            "8.2 Continuing Education"
+            "8.1 Education, Prevention, and Early Detection Programs"
         ]
     },
     "Chapter 9": {
